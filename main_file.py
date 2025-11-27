@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher
 from aiogram.client.default import DefaultBotProperties
-from aiogram.enums import ParseMode
+from aiogram.enums import ParseMode4
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from aiogram import Bot, Dispatcher
@@ -21,7 +21,7 @@ import asyncio
 import json
 import datetime
 import os
-TOKEN = "8288177419:AAH6yA_d14IcnU9pW4INsQXef9Pp7owMOsk"
+TOKEN = "not now"
 
 def add_user(user_id):
     try:
