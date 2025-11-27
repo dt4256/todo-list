@@ -1,6 +1,6 @@
 {
-  "permittions": "user",
-  "utc_loc": "",
-  "time_call": "",
-  "waytoinfo": ""
+  "permittions": "admin",
+  "utc_loc": "Europe/Volgograd",
+  "time_call": "03:00",
+  "waytoinfo": "text"
 }
